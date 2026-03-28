@@ -10,11 +10,5 @@ A new game-theoretic framework extending classical game theory by incorporating 
 
 ## View Online
 
-Visit the live book at: `https://YOUR_USERNAME.github.io/islamic-game-theory/`
+Visit the live book at: `https://mosesasai.github.io/islamic-game-theory/`
 
-## Setup (GitHub Pages)
-
-1. Go to repository Settings > Pages
-2. Set Source to "Deploy from a branch"
-3. Select `main` branch, root folder `/`
-4. Save — your site will be live in a few minutes
